@@ -1,0 +1,2 @@
+I have learned how to use GitHub by creating repositories, branches, commits, forks, and pull requests. 
+I am becoming more confident in version control and collaboration with others through Git.
